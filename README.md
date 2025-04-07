@@ -1,4 +1,4 @@
-# k-NN Machine Learning Algorith With Euclidian and Manhattan Distances.
+# Decision Tree Classifier
 
 ## Description
 This project shows Decision tree classifier using banknote authentication data set.  
